@@ -1,0 +1,19 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">Foodingo</string>
+    <!--Bottom navigation tabs-->
+    <string name="title_order">Order</string>
+    <string name="title_go_out">Go Out</string>
+    <string name="title_entertain">Entertain</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_spaces">Spaces</string>
+    <string name="day_night_content_description">Switch between light and dark theme</string>
+    <string name="day_night_title">Day night</string>
+    <string name="user_profile_content_descript">User profile image</string>
+    <string name="user_profile_title">User profile</string>
+    <string name="translate">Translate</string>
+    <!---->
+    <string name="search_location">Search Location</string>
+    <string name="address">Borivali, Mumbai, Maharashtra</string>
+    <string name="search_hint">Restaurant, cuisine, market,movie and more.</string>
+</resources>
